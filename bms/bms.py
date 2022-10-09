@@ -1,6 +1,6 @@
 import os
 
-import ruamel_yaml as yaml
+import ruamel.yaml as yaml
 
 script_path = os.path.abspath(__file__)
 

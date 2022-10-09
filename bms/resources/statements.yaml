@@ -1,0 +1,9 @@
+out_of_range:
+    english: is out of range!
+    german: ist außer Reichweite!
+battery_not_ok:
+    english: Battery is NOT OK!
+    german: Batterie ist NICHT in Ordnung!
+battery_ok:
+    english: Battery is OK!
+    german: Akku ist in Ordnung!
